@@ -4,6 +4,8 @@ import About from './components/About';
 import Gallery from './components/Gallery';
 import ContactForm from './components/Contact';
 
+// TEST COMMENT
+
 function App() {
   const [categories] = useState([
     {
